@@ -16,7 +16,7 @@
             </td>
             <td>
                 <p align="center">
-                <img src="https://github-profile-trophy.vercel.app/?username=lolpowerluke&theme=onedark&row=2&column=3" href="https://github.com/lolpowerluke"/>
+                <img src="https://github-profile-trophy.vercel.app/?username=lolpowerluke&theme=dark&row=2&column=3" href="https://github.com/lolpowerluke"/>
                 </p>
             </td>
         </tr>
