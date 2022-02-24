@@ -15,9 +15,9 @@
                 <img src="http://github-readme-streak-stats.herokuapp.com/?user=lolpowerluke&theme=dark&hide_border=false" href="https://github.com/lolpowerluke"/>
             </td>
             <td>
-                <p style="display: flex; justify-content: center;">
+                <div style="display: flex; justify-content: center;">
                 <img src="https://github-profile-trophy.vercel.app/?username=lolpowerluke&theme=onedark&row=2&column=3" href="https://github.com/lolpowerluke"/>
-                </p>
+                </div>
             </td>
         </tr>
     </table>
