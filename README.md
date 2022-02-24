@@ -15,9 +15,7 @@
                 <img src="http://github-readme-streak-stats.herokuapp.com/?user=lolpowerluke&theme=dark&hide_border=false" href="https://github.com/lolpowerluke"/>
             </td>
             <td>
-                <p align="center">
-                <img src="https://github-profile-trophy.vercel.app/?username=lolpowerluke&row=2&column=3&bg_color=151515&border_color=696868" href="https://github.com/lolpowerluke"/>
-                </p>
+                <img align="center" src="https://github-profile-trophy.vercel.app/?username=lolpowerluke&row=2&column=3&bg_color=151515&border_color=696868" href="https://github.com/lolpowerluke"/>
             </td>
         </tr>
     </table>
