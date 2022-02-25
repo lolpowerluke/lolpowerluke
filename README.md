@@ -20,29 +20,5 @@
                 </p>
             </td>
         </tr>
-        <tr>
-            <td>
-                <p align="center">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=lolpowerluke&repo=bd-themes&theme=vision-friendly-dark&border_color=0000FF" href="https://github.com/lolpowerluke"/>
-                </p>
-            </td>
-            <td>
-                <p align="center">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=lolpowerluke&repo=smallDMchannelList&theme=vision-friendly-dark&border_color=0000FF" href="https://github.com/lolpowerluke"/>
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <p align="center">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=lolpowerluke&repo=lolpowerluke.github.io&theme=vision-friendly-dark&border_color=0000FF" href="https://github.com/lolpowerluke"/>
-                </p>
-            </td>
-            <td>
-                <p align="center">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Xhylo&repo=steamUI&theme=vision-friendly-dark&border_color=0000FF" href="https://github.com/lolpowerluke"/>
-                </p>
-            </td>
-        </tr>
     </table>
  </a>
