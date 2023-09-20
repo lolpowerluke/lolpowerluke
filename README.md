@@ -1,14 +1,13 @@
-<a href="#">
-    <table width="100%">
-        <tr>
-            <td width="50%">
-                <img src="https://metrics.lecoq.io/lolpowerluke" alt="taimoor-tariq" width="500px" />
-            </td>
-            <td>
-                <p align="center">
-                <img src="https://github-profile-trophy.vercel.app/?username=lolpowerluke&theme=onedark&row=2&column=3" href="https://github.com/lolpowerluke"/>
-                </p>
-            </td>
-        </tr>
-    </table>
- </a>
+```javascript
+const lolpowerluke = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Java", "PHP", "HTML", "CSS"],
+    askMeAbout: ["web dev", "tech"],
+    technologies: {
+        backend: ["PHP", "Springboot"]
+        databases: ["MySql"],
+    },
+    currentFocus: "Lazing around in school",
+    funFact: "You cant write code that covers all test cases. Change my mind"
+};
+```
