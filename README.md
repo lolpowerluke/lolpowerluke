@@ -8,6 +8,6 @@ const lolpowerluke = {
         databases: ["MySql"],
     },
     currentFocus: "Lazing around in school",
-    funFact: "You cant write code that covers all test cases. Change my mind"
+    funFact: "You cant write code that covers all edge cases. Change my mind"
 };
 ```
