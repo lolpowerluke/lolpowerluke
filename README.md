@@ -2,7 +2,8 @@
 const lolpowerluke = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Java", "PHP", "HTML", "CSS"],
-    askMeAbout: ["web dev", "tech"],
+    3dSoftware: ["Blender"],
+    askMeAbout: ["web dev", "tech", "3d models"],
     technologies: {
         backend: ["PHP", "Springboot"]
         databases: ["MySql"],
